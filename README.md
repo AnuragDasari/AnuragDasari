@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @AnuragDasari Rising Senior at UNC Charlotte
-- 👀 I’m interested in technology internship opportunities
-- 🌱 I’m currently learning Java, SQL, python
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @AnuragDasari Senior at UNC Charlotte
 - 📫 How to reach me - anuragchowdary@outlook.com 
 - Linkedin www.linkedin.com/in/anurag-dasari
 
